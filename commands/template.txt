@@ -1,0 +1,11 @@
+const Discord = require("discord.js");
+
+module.exports.run = async (bot, message, args) => {
+	//replace me!
+}
+
+module.exports.help = {
+	name: "replace me!"
+}
+
+// Reminder: Implement a SuperAgent command sometime in the future
